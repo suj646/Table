@@ -1,0 +1,16 @@
+F:\DOTNET\Tablenumber\Tablenumber\bin\Debug\net5.0\Tablenumber.exe
+F:\DOTNET\Tablenumber\Tablenumber\bin\Debug\net5.0\Tablenumber.deps.json
+F:\DOTNET\Tablenumber\Tablenumber\bin\Debug\net5.0\Tablenumber.runtimeconfig.json
+F:\DOTNET\Tablenumber\Tablenumber\bin\Debug\net5.0\Tablenumber.runtimeconfig.dev.json
+F:\DOTNET\Tablenumber\Tablenumber\bin\Debug\net5.0\Tablenumber.dll
+F:\DOTNET\Tablenumber\Tablenumber\bin\Debug\net5.0\ref\Tablenumber.dll
+F:\DOTNET\Tablenumber\Tablenumber\bin\Debug\net5.0\Tablenumber.pdb
+F:\DOTNET\Tablenumber\Tablenumber\obj\Debug\net5.0\Tablenumber.csproj.AssemblyReference.cache
+F:\DOTNET\Tablenumber\Tablenumber\obj\Debug\net5.0\Tablenumber.GeneratedMSBuildEditorConfig.editorconfig
+F:\DOTNET\Tablenumber\Tablenumber\obj\Debug\net5.0\Tablenumber.AssemblyInfoInputs.cache
+F:\DOTNET\Tablenumber\Tablenumber\obj\Debug\net5.0\Tablenumber.AssemblyInfo.cs
+F:\DOTNET\Tablenumber\Tablenumber\obj\Debug\net5.0\Tablenumber.csproj.CoreCompileInputs.cache
+F:\DOTNET\Tablenumber\Tablenumber\obj\Debug\net5.0\Tablenumber.dll
+F:\DOTNET\Tablenumber\Tablenumber\obj\Debug\net5.0\ref\Tablenumber.dll
+F:\DOTNET\Tablenumber\Tablenumber\obj\Debug\net5.0\Tablenumber.pdb
+F:\DOTNET\Tablenumber\Tablenumber\obj\Debug\net5.0\Tablenumber.genruntimeconfig.cache
